@@ -1,0 +1,12 @@
+# dependency directory
+/node_modules
+
+# editors
+.idea
+*.iml
+
+# OS metadata
+.DS_Store
+
+# built .js files
+dist/**/*
